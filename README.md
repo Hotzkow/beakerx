@@ -1,3 +1,8 @@
+
+# Docker Image
+
+The latest version of this branch can be found as ready to use image at [DockerHub](https://hub.docker.com/r/jh00/jupyter).
+
 <!--
     Copyright 2017 TWO SIGMA OPEN SOURCE, LLC
 
@@ -14,9 +19,9 @@
     limitations under the License.
 -->
 
-<img width="900" alt="banner" src="https://user-images.githubusercontent.com/963093/34594978-31d70312-f1a2-11e7-861c-705a9e932c3c.png">
-
 # BeakerX: Beaker extensions for Jupyter
+
+<img width="900" alt="banner" src="https://user-images.githubusercontent.com/963093/34594978-31d70312-f1a2-11e7-861c-705a9e932c3c.png">
 
 [![Build Status](http://ec2-54-175-192-115.compute-1.amazonaws.com:8080/buildStatus/icon?job=BeakerX_master)](http://ec2-54-175-192-115.compute-1.amazonaws.com:8080/job/BeakerX_master)
 [![Gitter chat](https://badges.gitter.im/twosigma/beakerx.png)](https://gitter.im/twosigma/beakerx)
